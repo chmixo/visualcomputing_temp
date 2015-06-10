@@ -1,0 +1,4 @@
+enum Geometry{
+  Radial,
+  Speric
+};
